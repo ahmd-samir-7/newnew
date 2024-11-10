@@ -5,7 +5,7 @@ import json
 import os
 from typing import Dict, Any
 from dotenv import load_dotenv
-
+password = "ahmed7"
 # Load environment variables
 load_dotenv()
 
